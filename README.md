@@ -7,11 +7,6 @@ The provided pipeline trains a lightweight deepfake detection model and evaluate
 Key Specifications
 Reference Paper: Unlocking the Potential of Lightweight Quantized Models for Deepfake Detection (IJCAI 2025).
 
-Proxy Dataset: CIFAR-10 (Auto-downloaded).
-
-Real (Class 0): Automobile images.
-
-Fake (Class 1): Horse images.
 
 Runtime Requirement: Requires a GPU environment (T4 GPU recommended).
 
